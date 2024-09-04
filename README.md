@@ -1,5 +1,7 @@
 # FailedContract
 
+Created for https://t.me/TheOpenDevBlog
+
 ## Project structure
 
 -   `contracts` - source code of all the smart contracts of the project and their dependencies.
